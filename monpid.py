@@ -4,7 +4,6 @@ import sys
 import syslog
 import subprocess
 import psutil
-from time import sleep
 
 
 def check_pid(pid):
