@@ -5,7 +5,7 @@
 monpid.py checks if:
  - a pid file exists;
  - if the pid exists; and
- - if the pid associated process is not a zoombie/defunct.
+ - if the pid associated process is not a zombie/defunct.
 
 It starts the script/process if any of these fail.
 
